@@ -27,5 +27,9 @@
     Inputing the board into the code is quite tedious!
     Input your sudoku configuration in code at the appropriate place and run the code.
     Solution will be displayed in the terminal.
+
+
+### 6. partitions.py
+    This file has a function, that takes in a positive integers and returns all possible partitions of that input in a list.
     
 
